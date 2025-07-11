@@ -20,21 +20,6 @@ Dataset ini sangat ideal untuk latihan dan penerapan model klasifikasi multikela
 ---
 
 ## Struktur Folder
-Klasifikasi-Gambar/
-├── tfjs_model/ # Model versi TensorFlow.js (untuk aplikasi web)
-│ ├── group1-shard1of1.bin
-│ └── model.json
-├── tflite/ # Model versi TensorFlow Lite (untuk aplikasi mobile)
-│ ├── model.tflite
-│ └── label.txt
-├── saved_model/ # Model asli dalam format TensorFlow SavedModel
-│ ├── saved_model.pb
-│ └── variables/
-├── notebook.ipynb # Notebook berisi proses pelatihan dan evaluasi
-├── README.md # 
-└── requirements.txt # Daftar dependensi Python
-
-## Struktur Folder
 ```plaintext
 submission/
 ├── tfjs_model/              # Model versi TensorFlow.js (untuk aplikasi web)
