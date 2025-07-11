@@ -34,6 +34,23 @@ submission/
 ├── README.md # 
 └── requirements.txt # Daftar dependensi Python
 
+## Struktur Folder
+```plaintext
+submission/
+├── tfjs_model/              # Model versi TensorFlow.js (untuk aplikasi web)
+│   ├── group1-shard1of1.bin
+│   └── model.json
+├── tflite/                  # Model versi TensorFlow Lite (untuk aplikasi mobile)
+│   ├── model.tflite
+│   └── label.txt            # Label kelas untuk klasifikasi
+├── saved_model/             # Model asli dalam format TensorFlow SavedModel
+│   ├── saved_model.pb
+│   └── variables/           # Berisi variabel model
+├── notebook.ipynb           # Notebook berisi proses pelatihan dan evaluasi
+├── README.md                # Dokumentasi proyek ini
+└── requirements.txt         # Daftar dependensi Python
+```
+
 ---
 
 ## Cara Menjalankan
