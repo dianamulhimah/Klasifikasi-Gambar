@@ -1,6 +1,3 @@
-## Jalankan Notebook
-notebook.ipynb
-=======
 # Klasifikasi Gambar Sepatu, Sandal, dan Boot dengan CNN
 
 Proyek ini bertujuan untuk membangun model klasifikasi gambar menggunakan Convolutional Neural Network (CNN) untuk membedakan antara tiga jenis alas kaki: sepatu, sandal, dan boot. Model ini dapat digunakan untuk berbagai keperluan seperti sistem rekomendasi produk, pengenalan gambar otomatis, dan aplikasi berbasis pengolahan citra lainnya.
