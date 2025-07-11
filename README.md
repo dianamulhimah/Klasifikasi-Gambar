@@ -20,7 +20,7 @@ Dataset ini sangat ideal untuk latihan dan penerapan model klasifikasi multikela
 ---
 
 ## Struktur Folder
-submission/
+Klasifikasi-Gambar/
 ├── tfjs_model/ # Model versi TensorFlow.js (untuk aplikasi web)
 │ ├── group1-shard1of1.bin
 │ └── model.json
