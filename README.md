@@ -43,9 +43,3 @@ submission/
 1. Clone repo atau buka folder.
 2. Install requirements:
    !pip install -r requirements.txt
-
----
-
-## Jalankan Notebook
-notebook.ipynb
->>>>>>> 397c07d9c1347b969c444330395f1f95a29b61a4
